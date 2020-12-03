@@ -5,6 +5,7 @@ public enum Difficulty {
 
     private int index;
 
+
     Difficulty(int index) {
         this.index = index;
     }
